@@ -19,8 +19,8 @@
 		184E28A72BE54C78003E12D0 /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
 		184E28A82BE54C78003E12D0 /* DetailsViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = DetailsViewController.xib; sourceTree = "<group>"; };
 		9C19381C37A0B92BF9C2E571 /* Pods_UnivirsityDetails.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_UnivirsityDetails.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		BA9BF23A750704FBCA5097C7 /* Pods-UnivirsityDetails.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-UnivirsityDetails.release.xcconfig"; path = "Target Support Files/Pods-UnivirsityDetails/Pods-UnivirsityDetails.release.xcconfig"; sourceTree = "<group>"; };
-		CCF82072BB0FA36F39185052 /* Pods-UnivirsityDetails.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-UnivirsityDetails.debug.xcconfig"; path = "Target Support Files/Pods-UnivirsityDetails/Pods-UnivirsityDetails.debug.xcconfig"; sourceTree = "<group>"; };
+		BA9BF23A750704FBCA5097C7 /* Pods-UnivirsityDetails.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-UnivirsityDetails.release.xcconfig"; path = "../UniversitiesList/Pods/Target Support Files/Pods-UnivirsityDetails/Pods-UnivirsityDetails.release.xcconfig"; sourceTree = "<group>"; };
+		CCF82072BB0FA36F39185052 /* Pods-UnivirsityDetails.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-UnivirsityDetails.debug.xcconfig"; path = "../UniversitiesList/Pods/Target Support Files/Pods-UnivirsityDetails/Pods-UnivirsityDetails.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
