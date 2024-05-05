@@ -16,6 +16,9 @@ public class DetailsViewController: UIViewController {
     
     public override func viewDidLoad() {
         super.viewDidLoad()
+        
+        
+        
     }
 
 }
